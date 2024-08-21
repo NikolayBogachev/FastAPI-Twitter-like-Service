@@ -1,0 +1,12 @@
+aiofiles==23.2.1
+fastapi~=0.111.1
+uvicorn==0.30.5
+sqlalchemy==2.0.31
+asyncpg==0.29.0
+databases==0.9.0
+pydantic==2.8.2
+python-dotenv==1.0.1
+httpx==0.27.0
+python-multipart
+loguru~=0.7.2
+starlette~=0.37.2
